@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoriningJetpackComposeClass</string>
+    <string name="title_activity_layout2">LayoutActivity2</string>
+    <string name="title_activity_images2">ImagesActivity2</string>
+    <string name="title_activity_practice2">PracticeActivity2</string>
+    <string name="title_activity_text_field">TextFieldActivity</string>
+    <string name="title_activity_list2">ListActivity2</string>
+    <string name="title_activity_cards2">CardsActivity2</string>
+    <string name="title_activity_card_practice">CardPractice</string>
+    <string name="title_activity_shows">showsActivity</string>
+</resources>
